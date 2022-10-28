@@ -1,2 +1,2 @@
-# jungle_template
-template
+# Simple RxJava Demo
+
